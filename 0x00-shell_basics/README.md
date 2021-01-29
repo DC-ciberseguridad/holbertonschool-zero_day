@@ -6,3 +6,4 @@ file 4-listmorefiles "Display current directory contents, including hidden files
 file 5-listfilesdigitonly "Display current directory contents. Long format, with user and group IDs displayed numerically
 And hidden files (starting with .)" -
 file 6-firstdirectory "script that creates a directory named holberton in the /tmp/ directory" -
+file 7-movethatfile "Move the file betty from /tmp/ to /tmp/holberton." -
