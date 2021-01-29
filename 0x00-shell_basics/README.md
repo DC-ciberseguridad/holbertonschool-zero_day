@@ -17,4 +17,5 @@ file 14-copy_html "script that copies all the HTML files from the current workin
 file 15-lets_move "Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u." -
 file 16-clean_emacs "script that deletes all files in the current working directory that end with the character ~" -
 file 17-tree "Create a script that creates the directories welcome/, welcome/to/ and welcome/to/holberton in the current directory."  -
+file 18-commas "command that lists all the files and directories of the current directory, separated by commas (,)."
 
