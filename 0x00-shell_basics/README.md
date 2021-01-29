@@ -8,3 +8,5 @@ And hidden files (starting with .)" -
 file 6-firstdirectory "script that creates a directory named holberton in the /tmp/ directory" -
 file 7-movethatfile "Move the file betty from /tmp/ to /tmp/holberton." -
 file 8-firstdelete "Delete the file betty. The file betty is in /tmp/holberton" -
+file 9-firstdirdeletion "Delete the directory holberton that is in the /tmp directory." -
+
