@@ -9,3 +9,5 @@ file 7-everybody "script that adds execution permission to the owner, the group 
 file 8-James_Bond " Owner no permission at all, Group no permission at all, Other users: all the permissions" - 
 file 9. John Doe "script that sets the mode of the file hello to this rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello" -
 file 10. Look in the mirror "script that sets the mode of the file hello the same as olleh’s mode. The file hello will be in the working directory, The file olleh will be in the working directory" -
+file 11. Directories "script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed." -
+
