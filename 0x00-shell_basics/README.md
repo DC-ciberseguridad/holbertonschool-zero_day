@@ -9,5 +9,5 @@ file 6-firstdirectory "script that creates a directory named holberton in the /t
 file 7-movethatfile "Move the file betty from /tmp/ to /tmp/holberton." -
 file 8-firstdelete "Delete the file betty. The file betty is in /tmp/holberton" -
 file 9-firstdirdeletion "Delete the directory holberton that is in the /tmp directory." -
-10-back "script that changes the working directory to the previous one." -
-
+file 10-back "script that changes the working directory to the previous one." -
+file 11-lists "Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in this order), in long format." -
